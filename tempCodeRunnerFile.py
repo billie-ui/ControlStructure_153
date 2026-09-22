@@ -1,0 +1,1 @@
+#Write a PYTHON program to produce following design
