@@ -6,7 +6,7 @@
 #
 #   If % is >=70 then Good performance
 #
-#    If % is >=60 then average performance
+#    If % is >=60 then average performance.
 
 answer = int(input("evaluate your performance:"))
 if answer >= 90:
